@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-I'm an engineer fuelled by curiosity and a passion for solving problems. Currently, I'm contributing my skills to the tech team at DataNimbus.
+I'm an engineer fuelled by curiosity and a passion for solving problems.
 
 Here on GitHub, you'll get a glimpse into my coding adventures – from finished projects to those still in the works. Feel free to explore, connect, and share your insights!
 
