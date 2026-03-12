@@ -4,8 +4,7 @@
 
 ### Engineering Leader · Architect · Author · Speaker · Consultant
 
-*"The person you call when you need someone to untangle complexity —*
-*whiteboard to working architecture, in the same conversation."*
+*"From whiteboard sketch to working architecture-I untangle technical chaos and deliver actionable solutions on the fly."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerrymannel)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jerrymannel)
@@ -17,19 +16,7 @@
 
 ## 👋 Who I Am
 
-I'm an engineering leader and architect with **20+ years** of experience designing systems, leading teams, and shipping products that scale. I specialise in **API design and integration platforms**, having worked across **Fintech/Banking** and **Enterprise SaaS/Dev Tools**.
-
-I've led teams of 5–20 engineers, shipped products used by **Fortune 500 companies**, and built platforms that handle **millions of API calls daily**. I'm equally at home scoping a system on a whiteboard as I am reviewing a pull request or mentoring a junior engineer.
-
----
-
-## 🔭 What I'm Known For
-
-- **API & Integration Architecture** — designing platforms that connect complex enterprise systems cleanly and reliably
-- **0→1 Product Building** — taking ideas from napkin sketch to production-grade systems
-- **Legacy Modernisation** — untangling monoliths, de-risking migrations, and building a path forward
-- **Scaling Engineering Teams** — hiring, structuring, and growing teams that ship with confidence
-- **Training & Workshops** — hands-on sessions for engineers and teams on architecture, APIs, and modern tooling
+With over 20 years of engineering leadership, I architect scalable systems and build high-performing teams across Fintech and Enterprise SaaS. I specialize in API design and integration platforms, delivering solutions that handle millions of daily calls for Fortune 500 companies. I thrive at the intersection of strategy and execution—whether whiteboarding complex architectures, reviewing code, or mentoring engineers.
 
 ---
 
@@ -46,7 +33,7 @@ What I'm actively building and maintaining:
 - 🗄️ **[Unity Catalog Express Middleware](https://github.com/jerrymannel/unitycatalog-express-middleware)** - Express middleware for Unity Catalog using @databricks/sql
 - 📡 **[Unity Catalog DBAPI Express Middleware](https://github.com/jerrymannel/unitycatalog-dbapi-express-middleware)** - Express middleware for Unity Catalog using DataBricks API
 
-Unmaintained:
+## 📜 Legacy Projects
 
 - 📲 **[SMS Gateway](https://github.com/jerrymannel/smsgateway)** - Turns your Android phone into a simple SMS gateway.
 - 💻 **[Bash Menu](https://github.com/jerrymannel/bashmenu)** - A simple bash list menu for directory switching
