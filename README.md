@@ -1,8 +1,9 @@
+
+# Hi, I'm Jerry 👋
+
 <div align="center">
 
-# Jerry M. Reghunadh
-
-### Engineering Leader · Architect · Author · Speaker · Consultant
+**Engineering Leader · Architect · Author · Speaker · Consultant**
 
 *"From whiteboard sketch to working architecture-I untangle technical chaos and deliver actionable solutions on the fly."*
 
@@ -12,17 +13,10 @@
 
 </div>
 
----
-
-## 👋 Who I Am
-
 With over 20 years of engineering leadership, I architect scalable systems and build high-performing teams across Fintech and Enterprise SaaS. I specialize in API design and integration platforms, delivering solutions that handle millions of daily calls for Fortune 500 companies. I thrive at the intersection of strategy and execution—whether whiteboarding complex architectures, reviewing code, or mentoring engineers.
 
----
 
 ## 🚀 Current Projects
-
-What I'm actively building and maintaining:
 
 - 🔐 **[CLI Auth 2FA](https://github.com/jerrymannel/cli-auth-2fa)** - A terminal-based 2FA (TOTP) authenticator. Search your accounts, generate tokens, and copy them to clipboard — all from the CLI.
 - 🍃 **[Mongoose Express Middleware](https://github.com/jerrymannel/mongoose-express-middleware)** - Express CRUD middleware for mongoose
@@ -33,13 +27,10 @@ What I'm actively building and maintaining:
 - 🗄️ **[Unity Catalog Express Middleware](https://github.com/jerrymannel/unitycatalog-express-middleware)** - Express middleware for Unity Catalog using @databricks/sql
 - 📡 **[Unity Catalog DBAPI Express Middleware](https://github.com/jerrymannel/unitycatalog-dbapi-express-middleware)** - Express middleware for Unity Catalog using DataBricks API
 
-## 📜 Legacy Projects
+### 📜 Legacy Projects
 
 - 📲 **[SMS Gateway](https://github.com/jerrymannel/smsgateway)** - Turns your Android phone into a simple SMS gateway.
 - 💻 **[Bash Menu](https://github.com/jerrymannel/bashmenu)** - A simple bash list menu for directory switching
-
-
----
 
 ## 📖 Book
 <a href="https://nostarch.com/developers-guide-to-ai">
@@ -54,25 +45,12 @@ Co-authored with Jacob Orshalick and Danny Thompson - written for the everyday s
 
 Covers LLMs, prompt engineering, agents, and how to integrate AI practically into production codebases.
 
-📦 [Pre-order now](https://nostarch.com/developers-guide-to-ai) — Early Access ebook available today.
+📦 [Pre-order now](https://nostarch.com/developers-guide-to-ai) - Early Access ebook available today.
 
-<br clear="left"/>
 
----
+## 📞 Connect
 
-## 🤝 Work With Me
-
-I take on a select number of consulting engagements. Here's what I can help your team with:
-
-| Engagement | What it looks like |
-|---|---|
-| 🏗️ **Architecture Review** | Audit your current system design, identify risk, recommend a path forward |
-| 🚀 **0→1 Product Build** | Embedded architect for early-stage products — from design to first deploy |
-| 🔧 **Legacy Modernisation** | Structured approach to migrating and de-risking legacy systems |
-| 👥 **Team Scaling** | Org design, hiring strategy, engineering culture for growing teams |
-| 🎓 **Training & Workshops** | Custom sessions on API design, integration patterns, cloud-native architecture |
-
-📅 **[Book time on my calendar](https://calendar.app.google/kPuvPWqTtJdSGYRL8)** — let's talk about what you're building.
+Let's talk about what you're building -  📅 **[Book time on my calendar](https://calendar.app.google/kPuvPWqTtJdSGYRL8)**
 
 ---
 
