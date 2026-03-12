@@ -2,7 +2,7 @@
 
 # Jerry M. Reghunadh
 
-### Engineering Leader · API & Integration Architect · Consultant
+### Engineering Leader · Architect · Author · Speaker · Consultant
 
 *"The person you call when you need someone to untangle complexity —*
 *whiteboard to working architecture, in the same conversation."*
