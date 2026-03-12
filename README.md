@@ -40,6 +40,8 @@ What I'm actively building and maintaining:
 - 🔐 **[CLI Auth 2FA](https://github.com/jerrymannel/cli-auth-2fa)** - A terminal-based 2FA (TOTP) authenticator. Search your accounts, generate tokens, and copy them to clipboard — all from the CLI.
 - 🍃 **[Mongoose Express Middleware](https://github.com/jerrymannel/mongoose-express-middleware)** - Express CRUD middleware for mongoose
 - 🔌 **[Mongo Express Middleware](https://github.com/jerrymannel/mongo-express-middleware)** - Express middleware that will give you CRUD APIs on top of any MongoDB collection.
+- 🐀 **[ReST API Tester - R.A.T](https://github.com/appveen/rat)** - CLI-based code generator that automates the creation of Mocha and Chai-based REST API test cases using simple JSON configuration files.
+- 🚀 **[BashAliases](https://gist.github.com/jerrymannel/951ee1d648e35dd8242ac78e4318f5d7)** - My bash aliases
 - ☸️ **[K8s Pod Monitor](https://github.com/jerrymannel/k8s-pod-monitor)** - A bash script to monitor Kubernetes pods in specified namespaces and report their status if they are not running.
 - 🗄️ **[Unity Catalog Express Middleware](https://github.com/jerrymannel/unitycatalog-express-middleware)** - Express middleware for Unity Catalog using @databricks/sql
 - 📡 **[Unity Catalog DBAPI Express Middleware](https://github.com/jerrymannel/unitycatalog-dbapi-express-middleware)** - Express middleware for Unity Catalog using DataBricks API
