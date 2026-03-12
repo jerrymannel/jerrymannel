@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerrymannel)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jerrymannel)
-[![Book a Call](https://img.shields.io/badge/📅_Book_a_Call-brightgreen?style=flat)](https://bit.ly/jerry-calendar)
+[![Book a Call](https://img.shields.io/badge/📅_Book_a_Call-brightgreen?style=flat)](https://calendar.app.google/kPuvPWqTtJdSGYRL8)
 
 </div>
 
@@ -85,7 +85,7 @@ I take on a select number of consulting engagements. Here's what I can help your
 | 👥 **Team Scaling** | Org design, hiring strategy, engineering culture for growing teams |
 | 🎓 **Training & Workshops** | Custom sessions on API design, integration patterns, cloud-native architecture |
 
-📅 **[Book time on my calendar](https://bit.ly/jerry-calendar)** — let's talk about what you're building.
+📅 **[Book time on my calendar](https://calendar.app.google/kPuvPWqTtJdSGYRL8)** — let's talk about what you're building.
 
 ---
 
