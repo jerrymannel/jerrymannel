@@ -5,8 +5,6 @@
 
 **Engineering Leader · Architect · Author · Speaker · Consultant**
 
-*"From whiteboard sketch to working architecture-I untangle technical chaos and deliver actionable solutions on the fly."*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerrymannel)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jerrymannel)
 [![Book a Call](https://img.shields.io/badge/📅_Book_a_Call-brightgreen?style=flat)](https://calendar.app.google/kPuvPWqTtJdSGYRL8)
@@ -18,7 +16,7 @@ With over 20 years of engineering leadership, I architect scalable systems and b
 
 ## 🚀 Current Projects
 
-- 📸 **[StepSnap](https://github.com/jerrymannel/guide-creator)** - A [chrome plug-in](https://jerrymannel.github.io/stepsnap.github.io/) that helps you create step-by-step guides and save as PDF
+- 📸 **[StepSnap](https://github.com/jerrymannel/guide-creator)** - A [chrome plug-in](https://jerrymannel.github.io/stepsnap.github.io/) that helps you create step-by-step guides and save as PDF (Submitted/Under review)
 - 🔐 **[CLI Auth 2FA](https://github.com/jerrymannel/cli-auth-2fa)** - A terminal-based 2FA (TOTP) authenticator. Search your accounts, generate tokens, and copy them to clipboard — all from the CLI.
 - 🍃 **[Mongoose Express Middleware](https://github.com/jerrymannel/mongoose-express-middleware)** - Express CRUD middleware for mongoose
 - 🔌 **[Mongo Express Middleware](https://github.com/jerrymannel/mongo-express-middleware)** - Express middleware that will give you CRUD APIs on top of any MongoDB collection.
