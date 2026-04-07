@@ -16,7 +16,7 @@ With over 20 years of engineering leadership, I architect scalable systems and b
 
 ## 🚀 Current Projects
 
-- 📸 **[StepSnap](https://jerrymannel.github.io/stepsnap.github.io/)** | A [chrome plug-in](https://chromewebstore.google.com/detail/stepsnap/cpkbciahkinjocipgkoaanmlnkjodnjn) that helps you create step-by-step guides and save as PDF. [Site](https://jerrymannel.github.io/stepsnap.github.io/) \| [Plugin](https://chromewebstore.google.com/detail/stepsnap/cpkbciahkinjocipgkoaanmlnkjodnjn) |
+- 📸 **[StepSnap](https://jerrymannel.me/stepsnap/)** | A [chrome plug-in](https://chromewebstore.google.com/detail/stepsnap/cpkbciahkinjocipgkoaanmlnkjodnjn) that helps you create step-by-step guides and save as PDF. [Site](https://jerrymannel.me/stepsnap/) \| [Plugin](https://chromewebstore.google.com/detail/stepsnap/cpkbciahkinjocipgkoaanmlnkjodnjn) |
 - 🔐 **[CLI Auth 2FA](https://github.com/jerrymannel/cli-auth-2fa)** - A terminal-based 2FA (TOTP) authenticator. Search your accounts, generate tokens, and copy them to clipboard — all from the CLI.
 - 🍃 **[Mongoose Express Middleware](https://github.com/jerrymannel/mongoose-express-middleware)** - Express CRUD middleware for mongoose
 - 🔌 **[Mongo Express Middleware](https://github.com/jerrymannel/mongo-express-middleware)** - Express middleware that will give you CRUD APIs on top of any MongoDB collection.
