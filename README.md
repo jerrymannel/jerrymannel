@@ -44,7 +44,7 @@ Co-authored with Jacob Orshalick and Danny Thompson - written for the everyday s
 
 Covers LLMs, prompt engineering, agents, and how to integrate AI practically into production codebases.
 
-📦 [Pre-order now](https://nostarch.com/developers-guide-to-ai) - Early Access ebook available today.
+📦 [Order now](https://www.thedevelopersguidetoai.com/) - Early Access ebook available today.
 
 
 ## 📞 Connect
