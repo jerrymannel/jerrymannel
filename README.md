@@ -32,8 +32,8 @@ With over 20 years of engineering leadership, I architect scalable systems and b
 - 💻 **[Bash Menu](https://github.com/jerrymannel/bashmenu)** - A simple bash list menu for directory switching
 
 ## 📖 Book
-<a href="https://nostarch.com/developers-guide-to-ai">
-  <img src="https://nostarch.com/sites/default/files/styles/uc_product/public/DevGuideAI_placeholder_0.jpg?itok=zYfNmhgn" alt="The Developer's Guide to AI" width="140" align="left" style="margin-right: 16px;" />
+<a href="https://www.thedevelopersguidetoai.com/">
+  <img src="https://jerrymannel.me/images/book_tdgtai_2.png" alt="The Developer's Guide to AI" width="140" align="left" style="margin-right: 16px;" />
 </a>
 
 **The Developer's Guide to AI: From Prompts to Agents**
