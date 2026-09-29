@@ -1,9 +1,9 @@
 
 # Hey, I'm Jerry 👋
 
-20 years of building APIs and integration platforms, mostly in fintech and enterprise SaaS. These days I'm deep in AI agents and still writing the small tools I wish existed.
+I build APIs for a living and small tools for fun - usually because something annoyed me enough.
 
-Co-author of [The Developer's Guide to AI](https://www.thedevelopersguidetoai.com/) (No Starch Press).
+I also co-wrote [The Developer's Guide to AI](https://www.thedevelopersguidetoai.com/) with Jacob Orshalick and Danny Thompson.
 
 
 ## 🚀 Current Projects
