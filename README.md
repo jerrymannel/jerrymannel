@@ -1,17 +1,9 @@
 
-# Hi, I'm Jerry 👋
+# Hey, I'm Jerry 👋
 
-<div align="center">
+20 years of building APIs and integration platforms, mostly in fintech and enterprise SaaS. These days I'm deep in AI agents and still writing the small tools I wish existed.
 
-**Engineering Leader · Architect · Author · Speaker · Consultant**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerrymannel)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jerrymannel)
-[![Book a Call](https://img.shields.io/badge/📅_Book_a_Call-brightgreen?style=flat)](https://calendar.app.google/kPuvPWqTtJdSGYRL8)
-
-</div>
-
-With over 20 years of engineering leadership, I architect scalable systems and build high-performing teams across Fintech and Enterprise SaaS. I specialize in API design and integration platforms, delivering solutions that handle millions of daily calls for Fortune 500 companies. I thrive at the intersection of strategy and execution—whether whiteboarding complex architectures, reviewing code, or mentoring engineers.
+Co-author of [The Developer's Guide to AI](https://www.thedevelopersguidetoai.com/) (No Starch Press).
 
 
 ## 🚀 Current Projects
